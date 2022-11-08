@@ -1,0 +1,6 @@
+A1998001,Ram Kumar,10,Male
+B2000002,Sanjay Narayan,7,Male
+B2000003,Srishti Rai,10,Female
+E1997001,Manoj Pillai,12,Male
+G1998001,Preeti Suresh,9,Female
+G1999001,Leela L G,16,Female
